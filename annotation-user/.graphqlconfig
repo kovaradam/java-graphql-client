@@ -1,0 +1,10 @@
+{
+  "schemaPath": "./schema.graphql",
+  "extensions": {
+    "endpoints": {
+      "spacex": {
+        "url": "https://graphql.api.apollographql.com/api/graphql"
+      }
+    }
+  }
+}

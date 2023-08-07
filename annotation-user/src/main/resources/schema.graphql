@@ -1,0 +1,7 @@
+schema {
+    company: Info
+}
+
+type Info {
+    name: String
+}
